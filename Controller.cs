@@ -27,7 +27,7 @@ public class Controller
             {
                 view.DisplayBoard(model.GetBoard());
 
-                // ✅ FIXED PART STARTS HERE
+               
                 int column;
                 bool success = false;
 
@@ -41,7 +41,7 @@ public class Controller
                         view.ShowMessage("Column full. Try another column.");
                     }
                 }
-                // ✅ FIXED PART ENDS HERE
+              
 
                 if (model.CheckWin(currentPlayer.Symbol))
                 {

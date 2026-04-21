@@ -1,0 +1,15 @@
+/Users/peggynwosu/Desktop/sodv1202-project/bin/Debug/net8.0/sodv1202-project
+/Users/peggynwosu/Desktop/sodv1202-project/bin/Debug/net8.0/sodv1202-project.deps.json
+/Users/peggynwosu/Desktop/sodv1202-project/bin/Debug/net8.0/sodv1202-project.runtimeconfig.json
+/Users/peggynwosu/Desktop/sodv1202-project/bin/Debug/net8.0/sodv1202-project.dll
+/Users/peggynwosu/Desktop/sodv1202-project/bin/Debug/net8.0/sodv1202-project.pdb
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.AssemblyInfoInputs.cache
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.AssemblyInfo.cs
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.csproj.CoreCompileInputs.cache
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.sourcelink.json
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.dll
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/refint/sodv1202-project.dll
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.pdb
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/sodv1202-project.genruntimeconfig.cache
+/Users/peggynwosu/Desktop/sodv1202-project/obj/Debug/net8.0/ref/sodv1202-project.dll
